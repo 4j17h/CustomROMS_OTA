@@ -1,13 +1,22 @@
 {
-"response":[
-{
-"datetime":1597249818,
-"filename":"AOSiP-10-Quiche-RMX1931-20200812.zip",
-"id":"c019d0ae9657775dea36214ee7226252",
-"romtype":"unofficial",
-"size":609486688,
-"url":"https://github.com/4j17h/AOSiP_OTA/releases/download/OTA_20200812/AOSiP-10-Quiche-RMX1931-20200812.zip",
-"version":"10"
-}
-]
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "user": null,
+      "url": "null",
+      "build_date": 1614670449,
+      "build_type": "null",
+      "device": "RMX1931",
+      "dish": "null",
+      "downloads": 0,
+      "filename": "TEST",
+      "md5": "null",
+      "notes": "",
+      "size": 865951811,
+      "version": "TEST"
+    }
+  ]
 }
