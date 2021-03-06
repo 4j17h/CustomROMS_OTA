@@ -1,3 +1,16 @@
-----
-TEST
-----
+--------------
+March 06, 2021
+--------------
+* March Security Patch
+* Add back QS Tile Disco
+* Caffeine tile
+* Changed ugly drawables of Advanced reboot
+* Multiuser avatar in search bar
+* Various misc bug fixes
+* Fixed Waves MaxxAudio effects not working after latest security patch changes
+* Waves MaxxAudio app will be listed in launcher by default & also slightly tuned for better audio experience for speakers
+* Kernel: Optimize frequency tables and energy model
+* Added OTA Support
+* Improvements to realme Settings
+* SELinux Enforcing
+
