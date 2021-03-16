@@ -1,8 +1,23 @@
 {
-  "count": 1,
+  "count": 2,
   "next": null,
   "previous": null,
   "results": [
+    {
+      "id": 2,
+      "user": null,
+      "url": "https://github.com/4j17h/CustomROMS_OTA/releases/download/POSP_OTA_20210316/potato_RMX1931-11-20210316-dumaloo.v4.0.6+7.Community.zip",
+      "build_date": 1615880824,
+      "build_type": "null",
+      "device": "RMX1931",
+      "dish": "null",
+      "downloads": 0,
+      "filename": "potato_RMX1931-11-20210316-dumaloo.v4.0.6+7.Community.zip",
+      "md5": "fa54974e2489341da5d5d8dcd31d795e",
+      "notes": "",
+      "size": 937447139,
+      "version": "4.0.6+7"
+    },
     {
       "id": 1,
       "user": null,
