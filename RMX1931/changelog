@@ -1,4 +1,22 @@
 --------------
+April 9, 2021
+--------------
+* April Security Patch
+* Fix lockscreen wallpaper not being set if different from the Home one 
+* Ask pin for shutdown/reboot on secure lockscreen
+* Add Portuguese (Brazil) translations to Fries (thanks to @augusto_peress!)
+* Add QS color and transparency 
+* Add SysUI color mode (wallpaper based theming)
+* Add pocket mode 
+* Add NavigationBarMode2ButtonOverlay
+* Full emulator build support 
+* Use seekbar to allow setting arbitrary animation durations
+* Improvements to backuptool
+* Fixes to Fries
+* Added ability to adjust Haptic Vibration Strength (Realme Settings)
+* Fixed crashes when toggling HBM via QS tile (Realme Settings)
+
+--------------
 March 16, 2021
 --------------
 * DataSwitchTile tile
